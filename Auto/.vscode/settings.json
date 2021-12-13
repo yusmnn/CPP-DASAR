@@ -1,8 +1,5 @@
 {
     "files.associations": {
-        "iostream": "cpp",
-        "string": "cpp",
-        "iosfwd": "cpp",
         "array": "cpp",
         "atomic": "cpp",
         "*.tcc": "cpp",
@@ -24,6 +21,7 @@
         "memory": "cpp",
         "memory_resource": "cpp",
         "optional": "cpp",
+        "string": "cpp",
         "string_view": "cpp",
         "system_error": "cpp",
         "tuple": "cpp",
@@ -31,6 +29,8 @@
         "utility": "cpp",
         "fstream": "cpp",
         "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
         "istream": "cpp",
         "limits": "cpp",
         "new": "cpp",
@@ -40,5 +40,5 @@
         "streambuf": "cpp",
         "typeinfo": "cpp"
     },
-    "cmake.configureOnOpen": false
+    "C_Cpp.errorSquiggles": "Disabled"
 }
