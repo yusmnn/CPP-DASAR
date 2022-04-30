@@ -76,7 +76,7 @@ int main(){
         }
     }
 
-    cout << "=== AKHIR DARI PROGRAM5 ===" << endl;
+    cout << "=== AKHIR DARI PROGRAM ===" << endl;
 
     cin.get();
     return 0;
